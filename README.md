@@ -44,6 +44,7 @@
 <br>ㄴ 영범 : 오 확실히 그러네요 merge가 좀 편해졌어요
 
 # :+1: <br> ㄴ영범 : 이건 뭐죠...ㅋㅋ
+<br> ㄴ공감을 표현하고자...ㅎ....
 
 ![보일링쉬림프 미국맛 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
 
