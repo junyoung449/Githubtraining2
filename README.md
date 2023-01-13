@@ -41,3 +41,7 @@
 ### 장호 : 오류때문에 커밋이 조용한건가요....?ㅎ
 
 영범 : 오류가 ㅠㅠ...
+
+![보일링쉬림프 미국식 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
+
+영범 : 미국식 매운탕이라네요
