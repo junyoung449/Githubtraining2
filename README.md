@@ -57,3 +57,4 @@
 장호 : ![김치볶음밥](https://mblogthumb-phinf.pstatic.net/MjAyMDA4MDJfNTAg/MDAxNTk2MzQzNjI3NzY5.9UeH-co5TMi4z_SppO8fzJeL0qPBud80IbylKvgs-a8g.BOgPOYHa9Vyhz0A-0JrMdkULkn-9Sw6WZWWRnBTHC3Qg.JPEG.baby0817/KIMEWMCID_CHUAL100.jpg?type=w800)
 ㄴ 영범 : 저는 매워서 못먹는 김치볶음밥...ㅠ
   
+😃😁👍
