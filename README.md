@@ -46,6 +46,6 @@
 
 은겸 : git add . -> git commit -m "README.md" -> git pull -> git push origin main 이 순으로 하면 오류 좀 덜 나는 것 같습니다 !
 
-![보일링쉬림프 미국식 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
+![보일링쉬림프 미국맛 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
 
-영범 : 미국식 매운탕이라네요
+영범 : 미국맛 매운탕이라네요 <-미국식이 아니라 미국맛이었어요...ㅋㅋ
