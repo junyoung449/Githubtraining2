@@ -39,3 +39,13 @@
         <br> ㄴ 영범 : 오 당구 얼마나 잘하시나요
         <br> ㄴ 장호 : 저..4구는 200정도,, 3구는 잘 못쳐요..ㅎㅎ 
 
+---
+### 장호 : 오류때문에 커밋이 조용한건가요....?ㅎ
+
+영범 : 오류가 ㅠㅠ...
+
+은겸 : git add . -> git commit -m "README.md" -> git pull -> git push origin main 이 순으로 하면 오류 좀 덜 나는 것 같습니다 !
+
+![보일링쉬림프 미국식 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
+
+영범 : 미국식 매운탕이라네요
