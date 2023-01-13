@@ -48,5 +48,12 @@
 
 ![보일링쉬림프 미국맛 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
 
-영범 : 미국맛 매운탕이라네요 <-미국식이 아니라 미국맛이었어요...ㅋㅋ
-    <br>ㄴ 매운탕 먹고 싶네요....
+영범 : 미국식 매운탕이라네요
+  <br>ㄴ 매운탕 먹고 싶네요....
+
+---
+## 최애음식 사진 공유해요~
+
+장호 : ![김치볶음밥](https://mblogthumb-phinf.pstatic.net/MjAyMDA4MDJfNTAg/MDAxNTk2MzQzNjI3NzY5.9UeH-co5TMi4z_SppO8fzJeL0qPBud80IbylKvgs-a8g.BOgPOYHa9Vyhz0A-0JrMdkULkn-9Sw6WZWWRnBTHC3Qg.JPEG.baby0817/KIMEWMCID_CHUAL100.jpg?type=w800)
+
+  
