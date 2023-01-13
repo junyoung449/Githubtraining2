@@ -41,8 +41,9 @@
 영범 : 오류가 ㅠㅠ...
 
 은겸 : git add . -> git commit -m "README.md" -> git pull -> git push origin main 이 순으로 하면 오류 좀 덜 나는 것 같습니다 !
-ㄴ 영범 : 오 확실히 그러네요 merge가 좀 편해졌어요
-# :+1: 
+<br>ㄴ 영범 : 오 확실히 그러네요 merge가 좀 편해졌어요
+
+# :+1: <br> ㄴ영범 : 이건 뭐죠...ㅋㅋ
 
 ![보일링쉬림프 미국맛 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
 
