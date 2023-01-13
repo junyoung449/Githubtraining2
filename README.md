@@ -31,10 +31,6 @@
 <br> ㄴ 준영 : 저도 게임 좋아하는데 어떤 게임 주로 하세요?
 <br> ㄴ 영범 : 주로 스팀게임 많이 합니다 기지건설 운영게임으로요
 
-
-준영 : 저도 게임 좋아하는데 어떤 게임 주로 하세요?
-
-
 장호 : 전 축구랑...당구랑...좋아합니다
         <br> ㄴ 영범 : 오 당구 얼마나 잘하시나요
         <br> ㄴ 장호 : 저..4구는 200정도,, 3구는 잘 못쳐요..ㅎㅎ 
@@ -45,8 +41,17 @@
 영범 : 오류가 ㅠㅠ...
 
 은겸 : git add . -> git commit -m "README.md" -> git pull -> git push origin main 이 순으로 하면 오류 좀 덜 나는 것 같습니다 !
+ㄴ 영범 : 오 확실히 그러네요 merge가 좀 편해졌어요
+# :+1: 
 
-![보일링쉬림프 미국식 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
+![보일링쉬림프 미국맛 매운탕](https://naverpa-phinf.pstatic.net/MjAyMjExMzBfMjU5/MDAxNjY5ODAwODk2OTY3._UZCA3eSCURy7aiThgKdjQFE8JJD624CC2w22w-tGjQg.sDPD-CiQ1lZT4TkgGeT7xdxswNZmtqmWWypqH0oRDgsg.JPEG/84561651_16698008969573291072031956060306.jpg)
 
-영범 : 미국식 매운탕이라네요
-    <br>ㄴ 매운탕 먹고 싶네요....
+영범 : 미국맛 매운탕이라네요 <- 미국식이 아니라 미국맛이었어요...ㅋㅋ
+  <br>ㄴ 매운탕 먹고 싶네요....
+
+---
+## 최애음식 사진 공유해요~
+
+장호 : ![김치볶음밥](https://mblogthumb-phinf.pstatic.net/MjAyMDA4MDJfNTAg/MDAxNTk2MzQzNjI3NzY5.9UeH-co5TMi4z_SppO8fzJeL0qPBud80IbylKvgs-a8g.BOgPOYHa9Vyhz0A-0JrMdkULkn-9Sw6WZWWRnBTHC3Qg.JPEG.baby0817/KIMEWMCID_CHUAL100.jpg?type=w800)
+ㄴ 영범 : 저는 매워서 못먹는 김치볶음밥...ㅠ
+  
